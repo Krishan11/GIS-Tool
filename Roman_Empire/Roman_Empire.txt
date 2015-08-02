@@ -1,0 +1,10 @@
+14,37.5,Battle of Cape Ecnomus,webpages\Battle_of_Cape_Ecnomus.html
+12.1,43.133,Battle of Lake Trasimene,webpages\Battle_of_Lake_Trasimene.html
+10.33,36.858,Battle of Carthage,webpages\Battle_of_Carthage.html
+23.716,37.966,Siege of Athens and Piraeus,webpages\Battle_of_Athens.html
+4.5,47.537,Battle of Alesia,webpages\Battle_of_Alesia.html
+19.45,41.316,Battle of Dyrrhachium (48 BC),webpages\Battle_of_Dyrrhachium.html
+31.116,30.9,Battle of Nile,webpages\Battle_of_Nile.html
+24.286,41.013,Battle of Philippi,webpages\Battle_of_Philippi.html
+20.738,38.934,Battle of Actium,webpages\Battle_of_Actium.html
+8.129,52.408,Battle of the Teutoburg Forest,webpages\Battle_of_Teutoburg_Forest.html
